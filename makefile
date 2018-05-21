@@ -1,3 +1,4 @@
+# testing CicrleCI
 # Builds everything in the universe.
 build:
 	$(info Cleaning up artifacts directory...)
